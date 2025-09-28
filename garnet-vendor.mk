@@ -1517,6 +1517,9 @@ PRODUCT_PACKAGES += \
     libqtikeymaster4 \
     libqtikeymint \
     libquickcamera \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt \
     libqwes \
     librcc \
     librcmask \
